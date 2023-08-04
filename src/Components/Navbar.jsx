@@ -24,8 +24,8 @@ const Navbar = () => {
 
 
   return (
-    <div className="flex justify-between pb-4 " style={{backgroundColor:"white"}}>
-        <div className="flex items-center bg-white" style={{backgroundColor:"white"}}>
+    <div className="flex justify-between pb-4 " >
+        <div className="flex items-center bg-white" >
           <label htmlFor="currency" className="sr-only">
             Currency
           </label>
